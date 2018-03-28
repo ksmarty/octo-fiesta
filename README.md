@@ -1,2 +1,3 @@
-# octo-fiesta
-ICS40 one-offs
+# Octo Fiesta
+## MergeSort.java
+Demonstrates the use of merge sort with
